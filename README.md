@@ -1,6 +1,6 @@
 # OceanSim
 
-![image](https://github.com/chengiski/Ocean-Simulation/blob/main/result.png)
+![image](https://github.com/chengiski/Ocean-Simulation/main/result.png)
 
 Install 3rd-party packages before building the project
 
