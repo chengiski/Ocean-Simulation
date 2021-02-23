@@ -1,0 +1,48 @@
+﻿  ArHosekSkyModel.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+d:\chaos\csci 580\project\oceansim\oceansimu\hoseksky\arhosekskymodel.cpp(526): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  HeightField.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\heightfield.cpp(34): warning C4305: '=': truncation from 'double' to 'float'
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\heightfield.cpp(44): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\heightfield.cpp(89): warning C4305: '=': truncation from 'double' to 'float'
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\heightfield.cpp(99): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\heightfield.cpp(138): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\heightfield.cpp(152): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\heightfield.cpp(153): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\heightfield.cpp(163): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\main.cpp(84): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\main.cpp(85): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\main.cpp(94): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\main.cpp(98): warning C4018: '<': signed/unsigned mismatch
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\main.cpp(100): warning C4018: '<': signed/unsigned mismatch
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\main.cpp(103): warning C4018: '<=': signed/unsigned mismatch
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\main.cpp(90): warning C4101: 'filename': unreferenced local variable
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\main.cpp(156): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\main.cpp(157): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\main.cpp(467): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\main.cpp(508): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\main.cpp(509): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\main.cpp(601): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\main.cpp(602): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\main.cpp(660): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\main.cpp(666): warning C4305: '+=': truncation from 'double' to 'float'
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\main.cpp(832): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\main.cpp(833): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\main.cpp(837): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\main.cpp(838): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\main.cpp(840): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\main.cpp(841): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\chaos\csci 580\project\oceansim\oceansimu\oceansim\main.cpp(848): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  SkyModel.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+  Generating code
+  All 586 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OceanSim.vcxproj -> D:\chaos\CSCI 580\project\OceanSim\OceanSimu\Release\OceanSim.exe
